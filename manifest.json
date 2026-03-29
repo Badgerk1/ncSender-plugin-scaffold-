@@ -1,0 +1,8 @@
+{
+  "id": "live-edge-scan-mesh",
+  "name": "Live Edge Scan Mesh",
+  "version": "0.1.0",
+  "description": "Top-profile scan, heightmap reconstruction, compensation, and mesh export scaffold for ncSender.",
+  "author": "OpenAI",
+  "main": "src/index.js"
+}
